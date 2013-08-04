@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.Outermatrix-E_Entertainment"
        name="E! Entertainment"
-       version="0.6.9"
+       version="1.0.1"
        provider-name="outermatrix">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.Outermatrix-Smithsonian"
        name="Smithsonian Channel"
-       version="1.0.1a"
+       version="1.0.1"
        provider-name="Outermatrix">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -35,7 +35,7 @@
   <provides>video audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Smithsonian television shows bitches</summary>
+    <summary>Smithsonian television shows for all you bitches</summary>
     <description>Smithosonian channels</description>
     <platform>all</platform>
   </extension>
